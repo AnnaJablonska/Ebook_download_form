@@ -1,4 +1,4 @@
-# Tivix_testing_eboob_form
+# Tivix_testing_ebook_form
 
 recruitment task for Tivix company. 
 
